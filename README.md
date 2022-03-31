@@ -1,6 +1,6 @@
 ![Profile banner](./profile_banner_1.gif)
 
-<p align="center"><a href="https://www.instagram.com/milad_rastgo0/" target="blank" style="padding: 2px" > <img  src="https://i.imgur.com/OWdUupI.png" width="32" /></a> &nbsp;&nbsp; &nbsp;&nbsp;<a href="www.linkedin.com/in/milad-rastgoo-mrk" target="blank" ><img  src="https://i.imgur.com/78apom3.png" width="32" /></a>
+<p align="center"><a href="https://www.instagram.com/milad_rastgo0/" target="blank" style="padding: 2px" > <img  src="https://i.imgur.com/OWdUupI.png" width="32" /></a> &nbsp;&nbsp; &nbsp;&nbsp;<a href="https://www.linkedin.com/in/milad-rastgoo-mrk" target="blank" ><img  src="https://i.imgur.com/78apom3.png" width="32" /></a>
 
 <p align="center">Hello 👋 ! </p>
 
