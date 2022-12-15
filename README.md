@@ -8,3 +8,5 @@
 <p align="center"><img  src="https://img.shields.io/badge/-Javascript-%23F7DF1E" width="66" /> <img  src="https://img.shields.io/badge/-CSS-%231572B6" width="34" />   <img  src="https://img.shields.io/badge/-HTML-%23E34F26" width="43" /> <img  src="https://img.shields.io/badge/-React-%2361DAFB" width="43" /><img  src="https://img.shields.io/badge/-Firebase-%23FFCA28" width="59" /> </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladmrk94&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miladmrk94)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miladmrk94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
