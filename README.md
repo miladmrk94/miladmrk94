@@ -8,6 +8,6 @@
 <p align="center"><img  src="https://img.shields.io/badge/-Javascript-%23F7DF1E" width="66" /> <img  src="https://img.shields.io/badge/-CSS-%231572B6" width="34" />   <img  src="https://img.shields.io/badge/-HTML-%23E34F26" width="43" /> <img  src="https://img.shields.io/badge/-React-%2361DAFB" width="43" /><img  src="https://img.shields.io/badge/-Firebase-%23FFCA28" width="59" /> </p>
 
 <p align="center">
-  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Jurredr&count_private=true&show_icons=true&theme=omni" alt="User stats" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jurredr&layout=compact&theme=omni" alt="Top languages" />
+  <img width="53%" src="https://github-readme-stats.vercel.app/api?username=miladmkr94&count_private=true&show_icons=true&theme=omni" alt="User stats" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miladmkr94&layout=compact&theme=omni" alt="Top languages" />
 </p>
